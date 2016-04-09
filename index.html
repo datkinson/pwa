@@ -22,7 +22,12 @@
     </header>
 
     <main class="main" hidden>
-      <!-- Insert forecast-card.html here -->
+      <div class="card cardTemplate weather-forecast" hidden>
+        <div class="city-key" hidden></div>
+        <div class="location"></div>
+        <div class="date"></div>
+        <div class="description"></div>
+      </div>
     </main>
 
     <div class="dialog-container">
@@ -34,7 +39,6 @@
         <circle id="spinner" cx="16" cy="16" r="14" fill="none"></circle>
       </svg>
     </div>
-
-    <!-- Insert link to app.js here -->
+    <script src="/scripts/app.js"></script>
   </body>
 </html>
