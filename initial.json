@@ -1,0 +1,6 @@
+{
+  key: 'initial',
+  label: 'Initial Post',
+  description: 'This is a description',
+  icon: 'icon'
+}
