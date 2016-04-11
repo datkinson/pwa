@@ -5,7 +5,6 @@ var filesToCache = [
   '/index.html',
   '/scripts/app.js',
   '/styles/inline.css',
-  '/images/clear.png',
   '/images/ic_add_white_24px.svg',
   '/images/ic_refresh_white_24px.svg',
 ];
